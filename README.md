@@ -1,5 +1,4 @@
-<!-- Profile Image on the Right -->
-<img align="right" src="background.jpg" width="260" style="border-radius: 20px;">
+
 
 ##### 👋 Hey there! I'm **Sheldan Boc**
 
