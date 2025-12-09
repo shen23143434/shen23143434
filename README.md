@@ -1,4 +1,2 @@
-<img align="right" src="background.jpg" width="50%" >
+<img align="right" src="background.jpg" width="75%" >
 
-#Hi, I'm Sheldan Boc 👋
-IT Student || Front-end Developer
