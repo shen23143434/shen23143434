@@ -1,7 +1,26 @@
-<img align="right" src="background.jpg" width="260">
+<!-- Profile Image on the Right -->
+<img align="right" src="background.jpg" width="260" style="border-radius: 20px;">
 
-### SHELDAN BOC  
+## 👋 Hey there! I'm **Sheldan Boc**
 
-IT Student | Front-End Developer
+✨ **IT Student | Front-End Developer**  
+📍 Philippines  
+🎯 Passionate about creating clean, modern, and responsive web designs.
 
-Welcome to my GitHub profile!!
+---
+
+### 🚀 What I Do
+- 🌐 Build aesthetic & responsive websites  
+- 🎨 Love CSS designs, layouts & animations  
+- 🧠 Always learning new tech & improving skills  
+
+---
+
+### 📫 Contact Me
+📧 **shensy892@gmail.com**  
+🌐 Portfolio coming soon!  
+
+---
+
+### 🌟 Fun Fact
+I turn ideas into **simple, stylish, and functional** websites.
