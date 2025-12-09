@@ -1,7 +1,7 @@
 <!-- Profile Image on the Right -->
 <img align="right" src="background.jpg" width="260" style="border-radius: 20px;">
 
-## 👋 Hey there! I'm **Sheldan Boc**
+##### 👋 Hey there! I'm **Sheldan Boc**
 
 ✨ **IT Student | Front-End Developer**  
 📍 Philippines  
